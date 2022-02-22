@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+.container {
+    margin: 10px 50px;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+input {
+    width: 100%;
+    border: solid 1px #eee;
+    padding: 15px 10px;
+}
+
+button {
+    width: 200px;
+    padding: 15px;
+    margin-left: 250px;
+    background: #fff;
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+
+}
